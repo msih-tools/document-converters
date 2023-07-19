@@ -3,6 +3,7 @@
 # Code Source: Claudia.io
 # Code Project Info: 
 # https://github.com/python-openxml/python-docx
+# https://python-docx.readthedocs.io/en/latest/
 
 import docx
 
