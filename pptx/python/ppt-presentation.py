@@ -1,6 +1,12 @@
+# Code Status : Unverififed
+# Code Generation: AI generated
+# Code Source: Claudia.io
+# Code Project Info: 
+# http://github.com/scanny/python-pptx
+
+
 from pptx import Presentation
 
-# http://github.com/scanny/python-pptx
 
 prs = Presentation('sample.pptx')
 

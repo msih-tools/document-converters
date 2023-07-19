@@ -1,3 +1,9 @@
+// Code Status : Unverififed
+// Code Generation: AI generated
+// Code Source: Claudia.io
+// Code Project Info:
+
+
 const pdfParse = require('pdf-parse');
 
 let text = '';
